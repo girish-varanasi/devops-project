@@ -64,8 +64,3 @@ It allows:
 - id
 - name
 
-## Setup Instructions
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/sanjai-web/Student-Result-Management-System.git
-   cd Student-Result-Management-System
